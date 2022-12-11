@@ -6,7 +6,7 @@ int main()
 {
 
 	/*printing the message with the punction printf*/
-	printf("with proper grammar, but the outcome is a peice of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 
 	return 0;
 }
